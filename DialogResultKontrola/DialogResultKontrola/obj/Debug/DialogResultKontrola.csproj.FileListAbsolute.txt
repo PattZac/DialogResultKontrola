@@ -1,0 +1,10 @@
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\bin\Debug\DialogResultKontrola.exe.config
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\bin\Debug\DialogResultKontrola.exe
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\bin\Debug\DialogResultKontrola.pdb
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\obj\Debug\DialogResultKontrola.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\obj\Debug\DialogResultKontrola.Form1.resources
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\obj\Debug\DialogResultKontrola.Properties.Resources.resources
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\obj\Debug\DialogResultKontrola.csproj.GenerateResource.cache
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\obj\Debug\DialogResultKontrola.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\obj\Debug\DialogResultKontrola.exe
+C:\Users\unkno\source\repos\DialogResultKontrola\DialogResultKontrola\obj\Debug\DialogResultKontrola.pdb
